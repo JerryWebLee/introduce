@@ -10,10 +10,10 @@ introduce
 		|————index.css					||网页样式文档
 	|————js							||js逻辑代码文件夹
 		|————canvas.js					||firstPage up canvas(水母)动画实现
-		|————jquery1.11.3.min.js     	 || jQuery函数库
+		|————jquery1.11.3.min.js     	                || jQuery函数库
 		|————pages.js					||网页页面逻辑实现
-	|————index.html					||索引页面
-	|————README.md					||个人简历源码内容简介
+	|————index.html					        ||索引页面
+	|————README.md					        ||个人简历源码内容简介
 ```
 
 ## 源码说明
